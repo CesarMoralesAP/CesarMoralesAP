@@ -4,8 +4,6 @@
 
 ### Estudiante de Ingeniería de Sistemas Informáticos
 
-[ENIGMA](https://enigmaclothes.vercel.app) · [Mis repositorios](https://github.com/CesarMoralesAP?tab=repositories)
-
 </div>
 
 ---
@@ -22,15 +20,27 @@ Busco una oportunidad laboral donde pueda aportar mis conocimientos, adquirir ex
 
 ## Habilidades y tecnologías
 
-| Área | Tecnologías y conocimientos |
-| --- | --- |
-| Frontend | HTML · CSS · JavaScript |
-| Backend | Python · Django · PHP |
-| Bases de datos | PostgreSQL · MySQL |
-| Herramientas de desarrollo | Android Studio |
-| Servidores web | Apache |
-| Sistemas operativos | Linux · Windows |
-| Redes | Conocimientos básicos |
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend y bases de datos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Herramientas y sistemas**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
+
+**Otros conocimientos:** redes, nivel básico.
 
 ## Proyectos destacados
 
@@ -66,3 +76,5 @@ Proyecto para MORALES Oficina Contable, orientado al registro de entradas y sali
 **Gracias por visitar mi perfil.** Puedes explorar mis repositorios para conocer mi trabajo.
 
 </div>
+
+
