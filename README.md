@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy César Morales 👋
+<h3>Hola, soy César Morales 👋</h3>
 
 ### Estudiante de Ingeniería de Sistemas Informáticos
 
@@ -12,7 +12,7 @@
 
 Soy estudiante de **Ingeniería de Sistemas Informáticos en la Universidad de El Salvador** y bachiller técnico vocacional en **Desarrollo de Software por el Colegio Don Bosco**.
 
-Me destaco en el manejo de **HTML, CSS y JavaScript**. También cuento con conocimientos de Python, Django, PHP, PostgreSQL y Apache, manejo Android Studio y sistemas operativos Linux y Windows, y tengo conocimientos básicos en redes.
+Me destaco en el manejo de **HTML, CSS y JavaScript**. He trabajado con Python, JavaScript, Java y PHP, y actualmente estoy aprendiendo Assembly. También cuento con conocimientos de Django, PostgreSQL y Apache, manejo Android Studio y sistemas operativos Linux y Windows, y tengo conocimientos básicos en redes.
 
 Combino mi formación con proyectos propios y laborales. Soy el fundador de **ENIGMA**, mi emprendimiento de ropa en El Salvador, para el que he desarrollado su sitio web.
 
@@ -20,17 +20,22 @@ Busco una oportunidad laboral donde pueda aportar mis conocimientos, adquirir ex
 
 ## Habilidades y tecnologías
 
-**Frontend**
+**Lenguajes de programación**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Assembly — Aprendiendo](https://img.shields.io/badge/Assembly-Aprendiendo-654FF0?style=for-the-badge)
+
+**Desarrollo web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend y bases de datos**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Bases de datos**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Herramientas y sistemas**
@@ -76,5 +81,4 @@ Proyecto para MORALES Oficina Contable, orientado al registro de entradas y sali
 **Gracias por visitar mi perfil.** Puedes explorar mis repositorios para conocer mi trabajo.
 
 </div>
-
 
