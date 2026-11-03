@@ -1,10 +1,6 @@
 <div align="center">
 
-<h3>Hola, soy César Morales 👋<br><sub>Hi, I'm César Morales</sub></h3>
-
-
-**Estudiante de Ingeniería de Sistemas Informáticos**  
-*Computer Systems Engineering Student*
+<img src="assets/presentacion.svg" width="1000" alt="Hola, soy César Morales — Hi, I'm César Morales. Estudiante de Ingeniería de Sistemas Informáticos — Computer Systems Engineering Student.">
 
 </div>
 
@@ -33,19 +29,20 @@ Mi objetivo es crecer como un **profesional del desarrollo de software**, capaz 
 **Desarrollo web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDJoMThsLTEuNjQgMThMMTIgMjJsLTcuMzYtMkwzIDJ6bTMuNSA0IC4yIDJoMTAuNGwtLjMgMkg2LjlsLjYgNi42IDQuNSAxLjMgNC41LTEuMy42LTYuNkg5bC4yIDJoNS43bC0uMiAzLTIuNy44LTIuNy0uOC0uMi0xLjZIN2wuNCAzLjEgNC42IDEuMyA0LjYtMS4zLjktMTAuNWgtMTF6Ii8%2BPC9zdmc%2B)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Bases de datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Herramientas y sistemas**
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDMuNSAxMC41IDJ2OUgxem0xMS0xLjhMMjMgMHYxMUgxMnpNMSAxMi41aDkuNXY5TDEgMjB6bTExIDBoMTFWMjRsLTExLTEuOHoiLz48L3N2Zz4%3D)
 
 **Otros conocimientos:** redes, nivel básico.
 
@@ -83,6 +80,8 @@ Proyecto para MORALES Oficina Contable, orientado al registro de entradas y sali
 **Gracias por visitar mi perfil.** Puedes explorar mis repositorios para conocer mi trabajo.
 
 </div>
+
+
 
 
 
