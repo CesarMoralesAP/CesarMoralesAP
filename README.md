@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hola, soy César Morales 👋
-### Hi, I'm César Morales
+<h3>Hola, soy César Morales 👋<br><sub>Hi, I'm César Morales</sub></h3>
+
 
 **Estudiante de Ingeniería de Sistemas Informáticos**  
 *Computer Systems Engineering Student*
@@ -83,5 +83,6 @@ Proyecto para MORALES Oficina Contable, orientado al registro de entradas y sali
 **Gracias por visitar mi perfil.** Puedes explorar mis repositorios para conocer mi trabajo.
 
 </div>
+
 
 
